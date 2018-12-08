@@ -1,2 +1,0 @@
-# CreateTicketAppInReact
-Created with CodeSandbox
